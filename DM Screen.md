@@ -35,7 +35,7 @@ You make a [Perception](#skill-and-associated-abilities) check or an [Investigat
 You use a magic item that requires your action for its use.
 
 ## Use an Object
-You use an object, other than a magiic item, that requires your action for its use.
+You use an object, other than a magic item, that requires your action for its use.
 
 ## Use a Special Ability
 You use a class feature or other special ability that requires your action for its use.
@@ -70,7 +70,7 @@ If a spell must be maintained with concentration, its description specifies how 
 # Conditions
 
 ## Blinded
-* A blinded creature can't see and automatiically fails any ability check that requires sight.
+* A blinded creature can't see and automatically fails any ability check that requires sight.
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 ## Charmed
@@ -100,7 +100,7 @@ If a spell must be maintained with concentration, its description specifies how 
 * A paralyzed creature is [incapacitated](#incapacitated) and can't move or speak.
 * The creature automatically fails **Strength** and **Dexterity** saving throws.
 * Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hiit if the attacker is within 5 feet of the creature.
+* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ## Petrified
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -130,7 +130,7 @@ If a spell must be maintained with concentration, its description specifies how 
 * The creature drops whatever it's holding and falls [prone](#prone).
 * The creature automatically fails **Strength** and **Dexterity** saving throws.
 * Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hiit if the attacker is within 5 feet of the creature.
+* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ## Exhaustion
 | Level | Effect |
