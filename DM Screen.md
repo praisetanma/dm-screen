@@ -274,10 +274,10 @@ If a spell must be maintained with concentration, its description specifies how 
 | ┠ Gallon | 2 sp |
 | ┖ Mug | 4 cp |
 | Banquet *(per person)* | 10 gp |
-| Bread, loaf | 2cp |
+| Bread, loaf | 2 cp |
 | Cheese, hunk | 2 sp |
 | *Inn stay/day* | |
-| ┠ Squalid | 7cp |
+| ┠ Squalid | 7 cp |
 | ┠ Poor | 1 sp |
 | ┠ Modest | 5 sp |
 | ┠ Comfortable | 8 sp |
