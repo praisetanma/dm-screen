@@ -212,14 +212,14 @@ If a spell must be maintained with concentration, its description specifies how 
 | Service | Pay |
 | --- | --- |
 | *Coach cab* | |
-| ┠ Between towns | 3cp/mile |
-| ┖ Within a city | 1cp |
+| ┠ Between towns | 3 cp/mile |
+| ┖ Within a city | 1 cp |
 | *Hireling* | |
-| ┠ Skilled | 2gp/day |
-| ┖ Untrained | 2sp/day |
-| Messenger | 2cp/mile |
-| Road or gate toll | 1cp |
-| Ship's passage | 1sp/mile |
+| ┠ Skilled | 2 gp/day |
+| ┖ Untrained | 2 sp/day |
+| Messenger | 2 cp/mile |
+| Road or gate toll | 1 cp |
+| Ship's passage | 1 sp/mile |
 
 ## Obscured Areas
 | Obscureness | Effect | Examples |
@@ -284,7 +284,7 @@ If a spell must be maintained with concentration, its description specifies how 
 | ┠ Wealthy | 2 gp |
 | ┖ Aristocratic | 4 gp |
 | *Meals/day* | |
-| ┠ Squalid | 3cp |
+| ┠ Squalid | 3 cp |
 | ┠ Poor | 6 cp |
 | ┠ Modest | 3 sp |
 | ┠ Comfortable | 5 sp |
