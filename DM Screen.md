@@ -175,9 +175,9 @@ If a spell must be maintained with concentration, its description specifies how 
 | Size | Fragile | Resilient |
 | :--- | :--- | :--- |
 | Tiny (bottle, lock) | 2 (1d4) | 5 (2d4) |
-| Tiny (bottle, lock) | 3 (1d6) | 10 (3d6) |
-| Tiny (bottle, lock) | 4 (1d8) | 18 (4d8) |
-| Tiny (bottle, lock) | 5 (1d10) | 27 (5d10) |
+| Small (chest, lute) | 3 (1d6) | 10 (3d6) |
+| Medium (barrel, chandelier) | 4 (1d8) | 18 (4d8) |
+| Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
 
 ## Object AC
 | Substance | AC | Substance | AC |
@@ -200,8 +200,6 @@ If a spell must be maintained with concentration, its description specifies how 
 | Investigation | Intelligence | Survival | Wisdom |
 
 ## Travel Pace
-
-
 | Pace | Distance/Minute | Distance/Hour | Distance/Day | Effect|
 | --- | --- | --- | --- | --- |
 | Fast | 400 feet | 4 miles | 30 miles | -5 penalty to passive [Perception](#skill-and-associated-abilities) scores |
